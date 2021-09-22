@@ -1,0 +1,8 @@
+[class*="NavBar-plexLogo-"] {
+    background-image: url("https://raw.githubusercontent.com/findabir/media-resources/master/ntLogoWhite.png?token=AH6R5476AAWYIZKEXUXIRFTBJL536");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 10px;
+    width: 45px;
+}
